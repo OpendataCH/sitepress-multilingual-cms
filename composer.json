@@ -1,0 +1,7 @@
+{
+    "name": "opendatach/sitepress-multilingual-cms",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
